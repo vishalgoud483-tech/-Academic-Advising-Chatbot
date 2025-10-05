@@ -1,4 +1,4 @@
-# 🎓 Academic Advising Chatbot (RAG-Powered with Ollama)--
+# 🎓 Academic Advising Chatbot (RAG-Powered with Ollama)
 
 An intelligent **Retrieval-Augmented Generation (RAG)**–based chatbot designed to assist students with **academic advising**, built using **LangChain**, **Ollama**, **Pinecone**, and **Streamlit**.  
 This chatbot provides personalized, context-aware answers by retrieving relevant academic materials and combining them with generative reasoning — offering an efficient solution for educational institutions to enhance student support.
