@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-openai
+sentence-transformers
+faiss-cpu
+python-docx
+docx2txt
+python-dotenv
+streamlit
